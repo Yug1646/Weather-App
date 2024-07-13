@@ -41,7 +41,7 @@ const App = () => {
         <input
           type="text"
           className="flex-1 appearance-none bg-transparent border-none w-full text-white mr-3 py-1 px-2 leading-tight focus:outline-none"
-          placeholder="Enter Jagah"
+          placeholder="Enter Place"
           onChange={(e) => setInput(e.target.value)}
         />
 
